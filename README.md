@@ -1,4 +1,4 @@
-# EXP:8 - image-thresholding-opencv
+# EXP:8 - Image Segmentation Using Thresholding Techniques in OpenCV
 
 # NAME: N.KANISHKA
 # REGISTER NO: 212225230127
